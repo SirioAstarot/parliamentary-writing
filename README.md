@@ -79,11 +79,11 @@ Utilice esta habilidad siempre que el usuario solicite redactar un proyecto de l
 # Casos de Uso
 
 Hay diferentes casos de uso y combinaciones para esta habilidad, explotando al máximo la labor parlamentaria del servidor público que quiere redactar una ley sobre cualquier tema.
--Metodologías de investigación para regulación jurídica y auditorias de control.
--Investigaciones cualitativas y cuantitativas de datos estadísticos.
--Análisis de mercado, búsqueda de patrones de vacíos legales y adjudicación de derechos civiles.
+- Metodologías de investigación para regulación jurídica y auditorias de control.
+- Investigaciones cualitativas y cuantitativas de datos estadísticos.
+- Análisis de mercado, búsqueda de patrones de vacíos legales y adjudicación de derechos civiles.
 
-Se recomienda utilizar esta habilidad como último paso de investigación consultar antes de usar esta habilidad, combinarlas con otras habilidades de investigación, encuestas y asistentes sociales, por ejemplo:
+Se recomienda consultar antes de usar esta habilidad, combinarlas con otras habilidades de investigación, encuestas, asistentes sociales y utilizar esta habilidad como último paso de investigación, por ejemplo:
 - In Depth Research – https://github.com/modbender/skill-library-mcp/blob/main/data/in-depth-research/SKILL.md
 - Hyperplan – https://github.com/code-yeongyu/oh-my-openagent/blob/dev/.agents/skills/hyperplan/SKILL.md
 - Political Science Analysis – https://github.com/beita6969/ScienceClaw/blob/main/skills/political-science/SKILL.md
