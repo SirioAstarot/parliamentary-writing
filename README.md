@@ -1,7 +1,9 @@
 # Parliamentary Writing
 ## Resumen
 Redacta proyectos de ley junto con sus fundamentos o exposición de motivos, siguiendo las convenciones generales de redacción parlamentaria de Inter-Parliamentary Union en lugar de las fórmulas legales exactas de cada país. Sintetiza la investigación, los datos, los argumentos y las fuentes ya discutidas en la conversación en los fundamentos como base probatoria para el proyecto de ley.
+
 Entrega un documento de Word (.docx) pulido, compatible con el estándar Akoma Ntoso.
+
 Utilice esta habilidad siempre que el usuario solicite redactar un proyecto de ley, un proyecto de ley, un texto legislativo, fundamentos, una exposición de motivos, o quiera convertir una discusión política, los resultados de una investigación o un argumento político-filosófico en lenguaje legislativo formal, incluso si no utiliza las palabras "parlamentario" o "proyecto de ley" explícitamente (por ejemplo, "convierta esto en un proyecto de ley", "ármeme los fundamentos de esto", "redacte una ley sobre esto", "necesito un proyecto legislativo sobre X").
 
 ## Reglas:
