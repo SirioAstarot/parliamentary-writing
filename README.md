@@ -95,7 +95,7 @@ Se recomienda consultar antes de usar esta habilidad, combinarlas con otras habi
 - Survey Generator – https://github.com/rohitg00/pro-workflow/blob/main/skills/survey-generator/SKILL.md
 - Social Research Methods – https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/blob/main/skills/43-wentorai-research-plugins/skills/domains/social-science/social-research-methods/SKILL.md
 - Legislator – https://github.com/wonsukchoi/domain-experts/blob/main/roles/legislator/SKILL.md
-
+- Research Companion - https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/blob/main/skills/34-andrehuang-research-companion/README-original.md
 
 
 # REFERENCIAS:
