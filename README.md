@@ -96,7 +96,8 @@ Se recomienda consultar antes de usar esta habilidad, combinarlas con otras habi
 - Social Research Methods – https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/blob/main/skills/43-wentorai-research-plugins/skills/domains/social-science/social-research-methods/SKILL.md
 - Legislator – https://github.com/wonsukchoi/domain-experts/blob/main/roles/legislator/SKILL.md
 - Research Companion - https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills/blob/main/skills/34-andrehuang-research-companion/README-original.md
-
+- Lawyer Analyst Skill - https://github.com/majiayu000/claude-skill-registry/blob/main/skills/data/lawyer-analyst/SKILL.md
+ 
 
 # REFERENCIAS:
 **Ortografía de la RAE**
